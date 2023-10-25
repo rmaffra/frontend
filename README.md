@@ -1,4 +1,4 @@
-<h1 align="center"> Primeiro Projeto Front-end </h1>
+<h1 align="center"> Projeto Front-end </h1>
 
 <p align="center">
 Programa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
